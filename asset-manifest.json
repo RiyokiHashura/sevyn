@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sevyn/static/css/main.72108f15.css",
+    "main.js": "/sevyn/static/js/main.42fa92bd.js",
+    "static/js/453.627e846c.chunk.js": "/sevyn/static/js/453.627e846c.chunk.js",
+    "index.html": "/sevyn/index.html",
+    "static/media/alien.svg": "/sevyn/static/media/alien.d8c3b4cf43143f17b7cda78673198ae0.svg",
+    "main.72108f15.css.map": "/sevyn/static/css/main.72108f15.css.map",
+    "main.42fa92bd.js.map": "/sevyn/static/js/main.42fa92bd.js.map",
+    "453.627e846c.chunk.js.map": "/sevyn/static/js/453.627e846c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72108f15.css",
+    "static/js/main.42fa92bd.js"
+  ]
+}
